@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "pure_java_project/review/access control/ex1",
+        "pure_java_project/review/access control/ex2",
+        "pure_java_project/src",
+        "pure_java_project/test",
+        "pure_java_project/review/access control/ex4",
+        "pure_java_project/review/access control/ex5",
+        "pure_java_project/review/access control/ex3",
+        "pure_java_project/review/access control/ex6"
+    ],
+    "java.project.referencedLibraries": []
+}
